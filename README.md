@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Celei - Education Management App
 
 A React Native mobile application for education management with Firebase integration, featuring attendance tracking, user registration, and feedback systems.
@@ -269,3 +270,7 @@ For support and questions, please contact the development team.
 ---
 
 **Celei - Empowering Education Management** 📚✨ eas build --platform android --profile preview
+=======
+# childApp
+Mobile App
+>>>>>>> d268f94ca5fe8dc4e1fa5d5f01793208503a4274
